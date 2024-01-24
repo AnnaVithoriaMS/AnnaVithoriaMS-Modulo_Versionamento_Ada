@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferencias>
+    <filmes>
+        <filme>
+            <titulo>Interestelar</titulo>
+            <ano_lancamento>2014</ano_lancamento>
+            <elenco_principal>Matthew McConaughey, Anne Hathaway</elenco_principal>
+            <tipo>Sci-Fi</tipo>
+            <sinopse>Um grupo de exploradores espaciais tenta encontrar um novo lar para a humanidade.</sinopse>
+        </filme>
+        <filme>
+            <titulo>O Poderoso Chefão</titulo>
+            <ano_lancamento>1972</ano_lancamento>
+            <elenco_principal>Marlon Brando, Al Pacino</elenco_principal>
+            <tipo>Drama</tipo>
+            <sinopse>A história da ascensão de uma família italiana na máfia americana.</sinopse>
+        </filme>
+        <filme>
+            <titulo>Matrix</titulo>
+            <ano_lancamento>1999</ano_lancamento>
+            <elenco_principal>Keanu Reeves, Laurence Fishburne</elenco_principal>
+            <tipo>Ação</tipo>
+            <sinopse>Um hacker descobre a verdade sobre a realidade simulada em que vive.</sinopse>
+        </filme>
+    </filmes>
+    <livros>
+        <livro>
+            <titulo>O Senhor dos Anéis</titulo>
+            <autor>J.R.R. Tolkien</autor>
+            <ano_lancamento>1954</ano_lancamento>
+            <tipo>Fantasia</tipo>
+            <numero_paginas>1178</numero_paginas>
+        </livro>
+        <livro>
+            <titulo>1984</titulo>
+            <autor>George Orwell</autor>
+            <ano_lancamento>1949</ano_lancamento>
+            <tipo>Ficção Científica</tipo>
+            <numero_paginas>328</numero_paginas>
+        </livro>
+        <livro>
+            <titulo>Orgulho e Preconceito</titulo>
+            <autor>Jane Austen</autor>
+            <ano_lancamento>1813</ano_lancamento>
+            <tipo>Romance</tipo>
+            <numero_paginas>432</numero_paginas>
+        </livro>
+    </livros>
+    <comidas>
+        <comida>
+            <nome>Lasanha</nome>
+            <ingredientes>Massa, carne moída, queijo, molho de tomate</ingredientes>
+        </comida>
+        <comida>
+            <nome>Sushi</nome>
+            <ingredientes>Arroz, alga, peixe, legumes</ingredientes>
+        </comida>
+        <comida>
+            <nome>Tiramisu</nome>
+            <ingredientes>Queijo mascarpone, café, biscoitos, cacau</ingredientes>
+        </comida>
+    </comidas>
+</preferencias>
