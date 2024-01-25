@@ -1,0 +1,65 @@
+{
+    "preferencias": {
+      "filmes": [
+        {
+          "titulo": "Interestelar",
+          "ano_lancamento": 2014,
+          "elenco_principal": ["Matthew McConaughey", "Anne Hathaway"],
+          "tipo": "Sci-Fi",
+          "sinopse": "Um grupo de exploradores espaciais tenta encontrar um novo lar para a humanidade."
+        },
+        {
+          "titulo": "O Poderoso Chefão",
+          "ano_lancamento": 1972,
+          "elenco_principal": ["Marlon Brando", "Al Pacino"],
+          "tipo": "Drama",
+          "sinopse": "A história da ascensão de uma família italiana na máfia americana."
+        },
+        {
+          "titulo": "Matrix",
+          "ano_lancamento": 1999,
+          "elenco_principal": ["Keanu Reeves", "Laurence Fishburne"],
+          "tipo": "Ação",
+          "sinopse": "Um hacker descobre a verdade sobre a realidade simulada em que vive."
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "O Senhor dos Anéis",
+          "autor": "J.R.R. Tolkien",
+          "ano_lancamento": 1954,
+          "tipo": "Fantasia",
+          "numero_paginas": 1178
+        },
+        {
+          "titulo": "1984",
+          "autor": "George Orwell",
+          "ano_lancamento": 1949,
+          "tipo": "Ficção Científica",
+          "numero_paginas": 328
+        },
+        {
+          "titulo": "Orgulho e Preconceito",
+          "autor": "Jane Austen",
+          "ano_lancamento": 1813,
+          "tipo": "Romance",
+          "numero_paginas": 432
+        }
+      ],
+      "comidas": [
+        {
+          "nome": "Lasanha",
+          "ingredientes": ["Massa", "carne moída", "queijo", "molho de tomate"]
+        },
+        {
+          "nome": "Sushi",
+          "ingredientes": ["Arroz", "alga", "peixe", "legumes"]
+        },
+        {
+          "nome": "Tiramisu",
+          "ingredientes": ["Queijo mascarpone", "café", "biscoitos", "cacau"]
+        }
+      ]
+    }
+  }
+  
